@@ -1,7 +1,7 @@
 # 🔧 IT Governance and Service Management Automation
 Contributed to IT governance by implementing best practices in IT management.
 
-**Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
+**Institution:** Court of Auditors of Rio Grande do Sul / Tribunal de Contas do Estado do Rio Grande do Sul (TCE-RS)  
 **Duration:** December 2004 – March 2016  
 **Role:** Public Auditor working as a System Analyst  
 **Note:** Due to confidentiality, code and data files cannot be shared.
@@ -10,7 +10,7 @@ Contributed to IT governance by implementing best practices in IT management.
 Contributed to IT governance by implementing best practices in asset risk management, service catalogues, and a help desk system. Mapped IT processes to improve organizational structure, alignment, and transparency, while deepening my understanding of user support workflows and change management.
 
 **Situation:**  
-In response to federal IT governance mandates, TCE-RS needed to adopt a framework of best practices, governance, and compliance to professionalize and standardize how IT services were managed, requested, and delivered.
+In response to federal IT governance mandates, TCE-RS needed to adopt a framework of best practices, governance, and compliance to professionalize and standardize the management, request, and delivery of IT services.
 
 **Task:**  
 Support the implementation of a structured IT governance program, including process standardization, service request automation, and improved operational transparency.
